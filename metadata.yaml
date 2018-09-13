@@ -1,0 +1,32 @@
+_repo: Masks-and-Faces-or-Before-and-Behind-the-Curtain-A-Comedy-in-Two-Acts_51385
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Reade, Charles
+    birthdate: 1814
+    deathdate: 1884
+    gutenberg_agent_id: '618'
+    url: http://www.gutenberg.org/2009/agents/618
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Reade
+  - agent_name: Taylor, Tom
+    alias: Taylor, Thomas Proclus
+    birthdate: 1817
+    deathdate: 1880
+    gutenberg_agent_id: '1124'
+    url: http://www.gutenberg.org/2009/agents/1124
+    wikipedia: http://en.wikipedia.org/wiki/Tom_Taylor
+description: ''
+gutenberg_issued: '2016-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Woffington, Margaret, -1760 -- Drama'
+- GITenberg
+title: 'Masks and Faces; or, Before and Behind the Curtain: A Comedy in Two Acts'
+url: http://www.gutenberg.org/ebooks/51385
